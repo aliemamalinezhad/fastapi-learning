@@ -20,5 +20,10 @@ pytest
 requests
 
 
+#for jwt tokens    #new
+python-jose
+
 
 pre-commit
+
+python-multipart
